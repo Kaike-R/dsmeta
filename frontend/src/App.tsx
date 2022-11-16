@@ -1,6 +1,12 @@
+import NotificationButton from "./components/NotificationButton";
 
 export default function App() {
 
-  return <div>Hello World !!</div>
-}
+  return (
+  <div>
+    <h2>Hello World !!</h2>
+    <NotificationButton />
+  </div>
+  );
+};
 
