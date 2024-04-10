@@ -10,8 +10,8 @@ export default function Header() {
           <img src={logo} alt="Falha" />
           <h1>DSMeta</h1>
           <p>
-            Desenvolvido Por
-              <a href="https://www.instagram.com/devsuperior.ig">@devsuperior</a>
+            Desenvolvido Por Kaike em conjunto com 
+              <a href="https://www.instagram.com/devsuperior.ig"> @devsuperior</a>
           </p>
         </div>
       </header>
